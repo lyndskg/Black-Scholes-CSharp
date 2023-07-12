@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# JetBrains Rider
+
+Project("{9C0C34F7-6E38-4437-AAFD-C3084E69EF5E}") = "BlackScholes", "BlackScholes\BlackScholes.csproj", "{A7D4A785-64C7-4BB3-A48E-A87F163086DA}"
+EndProject
+
+Project("{E534FDDF-E5FE-44D0-BFE4-FA6ED98BD447}") = "Utilities", "Utilities\Utilities.csproj", "{6DD1ADF7-3129-4D7D-AD2C-7B9F9B9582DB}"
+EndProject
+    
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	    {A7D4A785-64C7-4BB3-A48E-A87F163086DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+	    {A7D4A785-64C7-4BB3-A48E-A87F163086DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	    {A7D4A785-64C7-4BB3-A48E-A87F163086DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	    {A7D4A785-64C7-4BB3-A48E-A87F163086DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	    {6DD1ADF7-3129-4D7D-AD2C-7B9F9B9582DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {6DD1ADF7-3129-4D7D-AD2C-7B9F9B9582DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {6DD1ADF7-3129-4D7D-AD2C-7B9F9B9582DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {6DD1ADF7-3129-4D7D-AD2C-7B9F9B9582DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
