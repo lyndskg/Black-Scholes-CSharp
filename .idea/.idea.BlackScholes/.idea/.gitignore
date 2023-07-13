@@ -3,9 +3,15 @@
 /workspace.xml
 # Rider ignored files
 /modules.xml
+<<<<<<< HEAD
 /projectSettingsUpdater.xml
 /contentModel.xml
 /.idea.BlackScholes.iml
+=======
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Black-Scholes.iml
+>>>>>>> d9c2ba6 (Hi)
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
