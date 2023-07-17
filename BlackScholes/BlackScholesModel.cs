@@ -21,6 +21,8 @@ namespace BlackScholes
         // Default constructor
         public BlackScholesModel()
         {
+            // Default constructor
+            // Initialize member variables if needed
         }
 
         // Custom constructor initializing all member variables (Is this necessary??)

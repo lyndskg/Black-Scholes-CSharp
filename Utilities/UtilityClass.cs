@@ -7,3 +7,4 @@ namespace BlackScholes
             // Implement your utility method here
         }
     }
+}

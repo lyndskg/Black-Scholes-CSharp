@@ -9,6 +9,7 @@ namespace BlackScholes
             // Instantiate and use the BlackScholes Model
             BlackScholesModel model = new BlackScholesModel();
             
+            
             // Call the option pricing function
             double optionPrice = model.CalculateOptionPrice();
 

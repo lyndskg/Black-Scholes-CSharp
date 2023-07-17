@@ -6,9 +6,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Main.cs" />
-        <Compile Include="BlackScholesModel.cs" />
-        <Compile Include="OtherFiles.cs" />
+        <Compile Include="UtilityClass.cs" />
+        <Compile Include="OtherUtilityFiles.cs" />
     </ItemGroup>
 
 </Project>
